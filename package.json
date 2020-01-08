@@ -1,6 +1,6 @@
 {
   "name": "uni-pocky-core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "```bash\r $ npm run format\r ```",
   "main": "./dist/index.js",
   "scripts": {
