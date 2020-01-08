@@ -1,0 +1,9 @@
+export declare const NAME_H5 = "h5";
+export declare const NAME_WECHAT = "weixin";
+export declare const NAME_ALIPAY = "alipay";
+export declare const NAME_BAIDU = "baidu";
+export declare const NAME_TOUTIAO = "toutiao";
+export declare const NAME_QQ = "qq";
+export declare const NAME_APP_PLUS = "APP-PLUS";
+export declare const NAME_APP_PLUS_NVUE = "APP-PLUS-NVUE";
+export declare type INAME = 'NAME_H5' | 'NAME_WECHAT' | 'NAME_ALIPAY' | 'NAME_BAIDU' | 'NAME_TOUTIAO' | 'NAME_QQ' | 'NAME_APP_PLUS' | 'NAME_APP_PLUS_NVUE';
