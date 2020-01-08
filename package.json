@@ -4,7 +4,7 @@
   "description": "```bash\r $ npm run format\r ```",
   "main": "./dist/index.js",
   "scripts": {
-    "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
+    "format": "prettier --write \"src/**/*.ts\"",
     "lint": "eslint --ext .ts src"
   },
   "author": "",
@@ -18,5 +18,13 @@
     "prettier": "^1.19.1",
     "typescript": "^3.7.4"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2460392754/uni-pocky-core.git"
+  },
+  "bugs": {
+    "url": "https://github.com/2460392754/uni-pocky-core/issues"
+  },
+  "homepage": "https://github.com/2460392754/uni-pocky-core#readme"
 }

@@ -29,7 +29,6 @@ export const UniPlugins = {
                 provider,
                 timeout,
                 success: (res) => {
-                    console.log(res);
                     resolve(res);
                 },
                 fail: () => reject(new Error('UniPlugins.login运行fail回调函数出现错误'))
