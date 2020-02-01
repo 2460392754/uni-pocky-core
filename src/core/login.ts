@@ -1,4 +1,4 @@
-import { UniPlugins } from './extends';
+import { UniPlugins } from '../extends';
 import * as final from './final';
 
 export const loginWechat = function() {

@@ -1,4 +1,4 @@
-import { UniSystem } from './extends';
+import { UniSystem } from '../extends';
 import * as final from './final';
 import { ENV } from './env';
 // 设置 nav

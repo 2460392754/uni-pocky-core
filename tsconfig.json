@@ -48,7 +48,8 @@
         "declaration": true,
         //单独为头文件指定存放的位置
         // "declarationDir": "./@types",
-        "baseUrl": "."
+        "baseUrl": ".",
+        "types": ["@dcloudio/types/uni-app"]
     },
     "include": ["src/**/*"],
     // 不包含的编译目录

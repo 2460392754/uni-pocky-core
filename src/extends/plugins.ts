@@ -27,7 +27,7 @@ export const UniPlugins = {
 
             uni.login({
                 provider,
-                timeout,
+                // timeout,
                 success: (res) => {
                     resolve(res);
                 },

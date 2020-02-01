@@ -3,11 +3,17 @@
 ## format
 
 ```bash
-$ npm run format
+$ yarn format
 ```
 
 ## lint
 
 ```bash
-$ npm run lint
+$ yarn lint
+```
+
+## ts to js
+
+```bash
+$ tsc -w
 ```

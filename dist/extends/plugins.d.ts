@@ -1,4 +1,4 @@
-/// <reference types="uni-app" />
+/// <reference types="@dcloudio/types/uni-app" />
 export declare const UniPlugins: {
     /**
      * @description 检查登录状态(sessionKey)是否没有过期
